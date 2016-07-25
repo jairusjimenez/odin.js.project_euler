@@ -3,10 +3,6 @@ var temp1 = 1;
 var temp2 = 2;
 var temptot = 0;
 
-for (i=1;i<=4000000;i++){
-    
-}
-
 while (i < 4000000){
     temptot = temp1 + temp2;
     fibo.push(temptot);
